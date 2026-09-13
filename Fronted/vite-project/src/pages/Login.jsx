@@ -46,14 +46,14 @@ const handleLogin = async (e) => {
 
         <div className="text-center">
 
-          <div className="text-6xl mb-3">🎬</div>
+          <div className="text-6xl mb-3">⬇️</div>
 
           <h1 className="text-3xl font-bold text-gray-800">
-            Movie Watchlist
+            Ai-Interview Copilot
           </h1>
 
           <p className="text-gray-500 mt-2">
-            Welcome Back 👋
+            “You’re next to be hired.”
           </p>
 
         </div>

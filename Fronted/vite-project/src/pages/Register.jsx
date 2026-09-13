@@ -51,10 +51,10 @@ function Register() {
 
         <div className="text-center">
 
-          <div className="text-6xl mb-3">🎬</div>
+          <div className="text-6xl mb-3"> ⬇️</div>
 
           <h1 className="text-3xl font-bold text-gray-800">
-            Movie Watchlist
+            Ai-Interviw Copilot
           </h1>
 
           <p className="text-gray-500 mt-2">
